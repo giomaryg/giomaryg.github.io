@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: lightpink;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid gray;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: pink;
+  }
+  
+  td {
+    border-top: 1px solid pink;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: beige;
+  }
